@@ -1,0 +1,60 @@
+title:
+        - en: One-Half Bridge
+          atoms:
+                  - en: Half
+                    cn: 半
+                    zh: 半
+                    py: bàn
+                  - en: a
+                    cn: 座
+                    zh: 座
+                    py: zuò
+                  - en: Bridge
+                    cn: 桥
+                    zh: 橋
+                    py: qiáo
+body:
+        lines:
+                - en: Long ago, there was a river, which had no bridge.
+                  atoms:
+                          - en: Long ago
+                            cn: 从前
+                            zh: 從前
+                            py: Cóngqián
+                          - en: there was
+                            cn: 有
+                            zh: 有
+                            py: yǒu
+                          - en: a
+                            cn: 一条
+                            zh: 一條
+                            py: yì tiáo
+                          - en: river
+                            cn: 河，
+                            zh: 河，
+                            py: hé
+                          - en: river
+                            cn: 河
+                            zh: 河
+                            py: hé
+                          - en: on
+                            cn: 上
+                            zh: 上
+                            py: shang
+                          - en: not
+                            cn: 没
+                            zh: 沒
+                            py: méi
+                          - en: have
+                            cn: 有
+                            zh: 有
+                            py: yǒu
+                          - en: bridge
+                            cn: 桥。
+                            zh: 橋。
+                            py: qiáo.
+                - en: The river was not deep, and as it was not possible to have a ferry,
+                - en: the people had to wade through the water to go back and forth.
+                - en: Some people feared the water and did not dare to cross.
+                - en: Because the rocks in the river were high and low, not level,
+                - en: some people were afraid they would slide down, and so they were unwilling to cross.

@@ -1,0 +1,19 @@
+categories:
+        - id: A
+          en: Chinese-English Bilingual Learning
+          zh: 中英雙語教學
+          cn: 中英双语教学
+          py: zhōng yīng shuāng yǔ jiào xué
+          categories:
+                  - id: A5
+                    en: Educational Stories
+                    cn: 教育故事
+                    zh: 教育故事
+                    py: jiào yù gù shi
+                    categories:
+                            - id: A5.1.01
+                              en: One-Half Bridge
+                              cn: 半座桥
+                              zh: 半座橋
+                              py: bàn zuò qiáo
+
