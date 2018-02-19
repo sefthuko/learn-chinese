@@ -2,59 +2,144 @@ title:
         - en: One-Half Bridge
           atoms:
                   - en: Half
-                    cn: 半
                     zh: 半
-                    py: bàn
                   - en: a
-                    cn: 座
                     zh: 座
-                    py: zuò
                   - en: Bridge
-                    cn: 桥
                     zh: 橋
-                    py: qiáo
 body:
         lines:
                 - en: Long ago, there was a river, which had no bridge.
                   atoms:
                           - en: Long ago
-                            cn: 从前
                             zh: 從前
                             py: Cóngqián
                           - en: there was
-                            cn: 有
                             zh: 有
-                            py: yǒu
                           - en: a
-                            cn: 一条
                             zh: 一條
-                            py: yì tiáo
                           - en: river
-                            cn: 河，
                             zh: 河，
-                            py: hé
+                            py: hé,
                           - en: river
-                            cn: 河
                             zh: 河
-                            py: hé
                           - en: on
-                            cn: 上
                             zh: 上
                             py: shang
                           - en: not
-                            cn: 没
                             zh: 沒
-                            py: méi
                           - en: have
-                            cn: 有
                             zh: 有
-                            py: yǒu
                           - en: bridge
-                            cn: 桥。
                             zh: 橋。
                             py: qiáo.
                 - en: The river was not deep, and as it was not possible to have a ferry,
+                  atoms:
+                          - en: River
+                            zh: 河
+                            py: Hé
+                          - en: water 
+                            zh: 水
+                          - en: not
+                            zh: 不
+                          - en: deep
+                            zh: 深
+                          - en: not
+                            zh: 不
+                          - en: could
+                            zh: 能
+                          - en: have
+                            zh: 有
+                          - en: ferry
+                            zh: 渡船，
+                            py: dùchuán,
                 - en: the people had to wade through the water to go back and forth.
+                  atoms:
+                          - en: came and went
+                            zh: 来往
+                            py: láiwǎng
+                          - en:  
+                            zh: 的
+                            py: de
+                          - en: people
+                            zh: 人
+                          - en: must
+                            zh: 必須
+                            py: bìxū
+                          - en: wade
+                            zh: 涉
+                          - en: water
+                            zh: 水
+                          - en: walk
+                            zh: 走
+                          - en: cross
+                            zh: 過去。
+                            py: guòqu.
                 - en: Some people feared the water and did not dare to cross.
+                  atoms:
+                          - en: Some
+                            zh: 有的
+                            py: Yǒude
+                          - en: people
+                            zh: 人
+                          - en: feared
+                            zh: 帕
+                          - en: water
+                            zh: 水，
+                          - en: not
+                            zh: 不
+                          - en: dare
+                            zh: 敢
+                          - en: walked
+                            zh: 走
+                          - en: cross
+                            zh: 過去。
+                            py: guòqu.
                 - en: Because the rocks in the river were high and low, not level,
+                  atoms:
+                          - en: Because
+                            zh: 因為
+                            py: Yīnwèi
+                          - en: river
+                            zh: 河
+                          - en: in
+                            zh: 裡
+                            py: li
+                          - en:  
+                            zh: 的
+                            py: de
+                          - en: rocks
+                            zh: 石頭
+                            py: shítou
+                          - en: high
+                            zh: 高
+                          - en: low
+                            zh: 低
+                          - en: not
+                            zh: 不
+                          - en: level
+                            zh: 平，
+                            py: píng,
                 - en: some people were afraid they would slide down, and so they were unwilling to cross.
+                  atoms:
+                          - en: some
+                            zh: 有的
+                            py: yǒude
+                          - en: people
+                            zh: 人
+                          - en: feared
+                            zh: 帕
+                          - en: slide down
+                            zh: 滑倒，
+                            py: huádǎo,
+                          - en: also
+                            zh: 也
+                          - en: not
+                            zh: 不
+                          - en: willing
+                            zh: 願意
+                          - en: walked
+                            zh: 走
+                          - en: cross
+                            zh: 過去
+                            py: guòqu.
