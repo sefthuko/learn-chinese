@@ -1,15 +1,16 @@
 title:
-        - en: One-Half Bridge
-          atoms:
-                  - en: Half
-                    zh: 半
-                  - en: a
-                    zh: 座
-                  - en: Bridge
-                    zh: 橋
+        en: One-Half Bridge
+        atoms:
+                - en: Half
+                  zh: 半
+                - en: a
+                  zh: 座
+                - en: Bridge
+                  zh: 橋
 body:
         lines:
-                - en: Long ago, there was a river, which had no bridge.
+                - flow: indent
+                  en: Long ago, there was a river, which had no bridge.
                   atoms:
                           - en: Long ago
                             zh: 從前
@@ -23,7 +24,7 @@ body:
                             py: hé,
                           - en: river
                             zh: 河
-                          - en: on
+                          - en: "on"
                             zh: 上
                             py: shang
                           - en: not
@@ -58,8 +59,7 @@ body:
                           - en: came and went
                             zh: 来往
                             py: láiwǎng
-                          - en:  
-                            zh: 的
+                          - zh: 的
                             py: de
                           - en: people
                             zh: 人
@@ -105,8 +105,7 @@ body:
                           - en: in
                             zh: 裡
                             py: li
-                          - en:  
-                            zh: 的
+                          - zh: 的
                             py: de
                           - en: rocks
                             zh: 石頭

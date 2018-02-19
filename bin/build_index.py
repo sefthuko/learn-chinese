@@ -29,12 +29,6 @@ def write_index(index, f):
         f.write("</li>\n")
         f.write("</ul>\n")
 
-def parse_content():
-    return {}
-
-def write_content(model):
-    pass
-
 if __name__ == "__main__":
     try:
         os.mkdir("build")
@@ -43,7 +37,3 @@ if __name__ == "__main__":
 
     with open("build/index.html", "w") as o:
         write_index(parse_index(), o)
-
-    model = parse_content()
-
-    write_content(model)
