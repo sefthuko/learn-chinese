@@ -1,7 +1,7 @@
 Ultimately I hope you can run something like this:
 
 ```
-./bin/build_index.py
+./bin/build_sitemap.py
 ./bin/build_content.py
 ```
 
