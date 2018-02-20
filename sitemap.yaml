@@ -6,8 +6,6 @@ categories:
                   - id: A5
                     en: Educational Stories
                     zh: 教育故事
-                    categories:
+                    stories:
                             - id: A5.1.01
-                              en: One-Half Bridge
-                              zh: 半座橋
 
