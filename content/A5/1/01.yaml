@@ -1,5 +1,7 @@
 title:
         en: One-Half Bridge
+        en_audio: bane0.wav
+        cn_audio: banc0.wav
         atoms:
                 - en: Half
                   zh: 半

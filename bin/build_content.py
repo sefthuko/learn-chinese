@@ -38,46 +38,64 @@ def fill_atom(atom, charset):
     return cn, py, en
 
 def write_line(line, f, charset):
+    f.write("""        <div class="audio">""")
     for atom in line["atoms"]:
         cn, py, en = fill_atom(atom, charset)
-        f.write("""        <div class="atom highlight">
-        <div>{}</div>
-        <div>{}</div>
-        <div>{}</div>
-    </div>
+        f.write("""            <div class="atom highlight">
+            <div>{}</div>
+            <div>{}</div>
+            <div>{}</div>
+        </div>
 """.format(py, cn, en))
-    f.write("""        <br>
-            <div class="atom">({})</div>
+    f.write("""        </div>
+            <br>
+            <div class="atom audio">({})</div>
         </div>
 """.format(line["en"]))
 
 def write_content(content, f, charset):
     f.write("""<html>
     <head>
-        <title>{}</title>
-        <style>
-div.line {{
-    padding-bottom: 1em;
-}}
+""")
 
-div.indented {{
-    padding-left: 2em;
-}}
-
-div.atom {{
-    padding-right: 0.2em;
-    display: inline-block;
-}}
-
-div.highlight:hover {{
-    background-color: #DDD;
-}}
-        </style>
-    </head>
-    <body>
+    f.write("""        <title>{}</title>
 """.format(content["title"]["en"]))
 
-    f.write("            <center>\n")
+    f.write("""        <style>
+div.line {
+    padding-bottom: 1em;
+}
+
+div.indented {
+    padding-left: 2em;
+}
+
+div.atom {
+    padding-right: 0.2em;
+    display: inline-block;
+}
+
+div.highlight:hover {
+    background-color: #DDF;
+}
+
+div.audio {
+    display: inline-block;
+}
+
+div.audio:hover {
+    background-color: #EEF;
+    cursor: pointer;
+}
+        </style>
+""")
+
+    f.write("""    </head>
+    <body>
+""")
+
+    f.write("""            <center>
+""")
     write_line(content["title"], f, charset)
     f.write("""            </center>
             <p>
