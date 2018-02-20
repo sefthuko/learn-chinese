@@ -3,10 +3,13 @@ title:
         atoms:
                 - en: Half
                   zh: 半
+                  py: Bàn
                 - en: a
                   zh: 座
+                  py: Zuò
                 - en: Bridge
                   zh: 橋
+                  py: Qiaó
 body:
         lines:
                 - flow: indent

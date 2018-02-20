@@ -37,6 +37,20 @@ def fill_atom(atom, charset):
 
     return cn, py, en
 
+def write_line(line, f, charset):
+    for atom in line["atoms"]:
+        cn, py, en = fill_atom(atom, charset)
+        f.write("""        <div class="atom highlight">
+        <div>{}</div>
+        <div>{}</div>
+        <div>{}</div>
+    </div>
+""".format(py, cn, en))
+    f.write("""        <br>
+            <div class="atom">({})</div>
+        </div>
+""".format(line["en"]))
+
 def write_content(content, f, charset):
     f.write("""<html>
     <head>
@@ -63,23 +77,19 @@ div.highlight:hover {{
     <body>
 """.format(content["title"]["en"]))
 
+    f.write("            <center>\n")
+    write_line(content["title"], f, charset)
+    f.write("""            </center>
+            <p>
+""")
+
     for line in content["body"]["lines"]:
         if "flow" in line and line["flow"] == "indent":
             f.write("""       <div class="indented line">\n""")
         else:
             f.write("""       <div class="line">\n""")
-        for atom in line["atoms"]:
-            cn, py, en = fill_atom(atom, charset)
-            f.write("""        <div class="atom highlight">
-            <div>{}</div>
-            <div>{}</div>
-            <div>{}</div>
-        </div>
-""".format(py, cn, en))
-        f.write("""        <br>
-                <div class="atom">({})</div>
-            </div>
-""".format(line["en"]))
+
+        write_line(line, f, charset)
 
     f.write("""    </body>
 </html>""")
