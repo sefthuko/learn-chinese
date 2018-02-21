@@ -16,8 +16,8 @@ body:
         lines:
                 - flow: indent
                   en: Long ago, there was a river, which had no bridge.
-                  en_audio: "bane01.wav"
-                  cn_audio: "banc01.wav"
+                  en_audio: bane01.wav
+                  cn_audio: banc01.wav
                   atoms:
                           - en: Long ago
                             zh: 從前
@@ -42,8 +42,8 @@ body:
                             zh: 橋。
                             py: qiáo.
                 - en: The river was not deep, and as it was not possible to have a ferry,
-                  en_audio: "bane02.wav"
-                  cn_audio: "banc02.wav"
+                  en_audio: bane02.wav
+                  cn_audio: banc02.wav
                   atoms:
                           - en: River
                             zh: 河
@@ -64,8 +64,8 @@ body:
                             zh: 渡船，
                             py: dùchuán,
                 - en: the people had to wade through the water to go back and forth.
-                  en_audio: "bane03.wav"
-                  cn_audio: "banc03.wav"
+                  en_audio: bane03.wav
+                  cn_audio: banc03.wav
                   atoms:
                           - en: came and went
                             zh: 来往
@@ -87,8 +87,8 @@ body:
                             zh: 過去。
                             py: guòqu.
                 - en: Some people feared the water and did not dare to cross.
-                  en_audio: "bane04.wav"
-                  cn_audio: "banc04.wav"
+                  en_audio: bane04.wav
+                  cn_audio: banc04.wav
                   atoms:
                           - en: Some
                             zh: 有的
@@ -109,8 +109,8 @@ body:
                             zh: 過去。
                             py: guòqu.
                 - en: Because the rocks in the river were high and low, not level,
-                  en_audio: "bane05.wav"
-                  cn_audio: "banc05.wav"
+                  en_audio: bane05.wav
+                  cn_audio: banc05.wav
                   atoms:
                           - en: Because
                             zh: 因為
@@ -135,8 +135,8 @@ body:
                             zh: 平，
                             py: píng,
                 - en: some people were afraid they would slide down, and so they were unwilling to cross.
-                  en_audio: "bane06.wav"
-                  cn_audio: "banc06.wav"
+                  en_audio: bane06.wav
+                  cn_audio: banc06.wav
                   atoms:
                           - en: some
                             zh: 有的
@@ -159,3 +159,672 @@ body:
                           - en: cross
                             zh: 過去
                             py: guòqu.
+                - en: There also were the elderly, children, and sick people,
+                  en_audio: bane07.wav
+                  cn_audio: banc07.wav
+                  atoms:
+                          - en: also
+                            zh: 還
+                            py: Hái
+                          - en: there were
+                            zh: 有些
+                          - en: old people
+                            zh: 老人，
+                            py: lǎorén,
+                          - en: children
+                            zh: 小孩兒，
+                            py: xiǎoháir,
+                          - en: sick
+                            zh: 有病的
+                            py: yǒu bìng de
+                          - en: people 
+                            zh: 人，
+                            py: rén,
+                - en: all of whom had no way to cross the river.
+                  en_audio: bane08.wav
+                  cn_audio: banc08.wav
+                  atoms:
+                          - en: all
+                            zh: 都
+                          - en: no
+                            zh: 無
+                          - en: way
+                            zh: 法
+                          - en: cross
+                            zh: 過
+                          - en: river
+                            zh: 河。
+                            py: hé.
+                - en: When it rained the water level rose high,
+                  en_audio: bane09.wav
+                  cn_audio: banc09.wav
+                  atoms:
+                          - en: Rained 
+                            zh: 下雨 
+                            py: Xiàyǔ
+                          - zh: 的
+                          - en: time
+                            zh: 時候，
+                            py: shíhou,
+                          - en: river
+                            zh: 河
+                          - en: water
+                            zh: 水
+                          - en: rose
+                            zh: 張
+                          - en: high
+                            zh: 高，
+                            py: gāo,
+                - en: and since the water was very deep, the traffic was then disrupted.
+                  en_audio: bane10.wav
+                  cn_audio: banc10.wav
+                  atoms:
+                          - en: water
+                            zh: 水
+                          - en: too
+                            zh: 太
+                          - en: deep
+                            zh: 深，
+                          - en: traffic
+                            zh: 交通
+                            py: jiāotōng
+                          - en: then
+                            zh: 就
+                          - en: disrupted
+                            zh: 斷絕
+                            py: duànjué
+                          - zh: 了。
+                            py: le.
+                - flow: indent
+                  en: By the side of the river, there lived a man,
+                  en_audio: bane11.wav
+                  cn_audio: banc11.wav
+                  atoms:
+                          - en: River
+                            zh: 河
+                            py: Hé
+                          - zh: 的
+                            py: de
+                          - en: side
+                            zh: 旁邊
+                          - en: lived
+                            zh: 住着
+                            py: zhù zhe
+                          - en: a
+                            zh: 一個
+                            py: yí ge
+                          - en: man
+                            zh: 人，
+                            py: rén,
+                - en: who was very sincere and honest, and a very hard worker.
+                  en_audio: bane12.wav
+                  cn_audio: banc12.wav
+                  atoms:
+                          - en: very
+                            zh: 很
+                          - en: sincere
+                            zh: 忠厚
+                            py: zhōnghòu
+                          - en: honest
+                            zh: 老實，
+                            py: lǎoshí,
+                          - en: hardly
+                            zh: 勤苦
+                            py: qínkǔ
+                          - en: worked
+                            zh: 工作。
+                            py: gōngzuò.
+                - en: When he saw this situation he would help people cross the river. 
+                  en_audio: bane13.wav
+                  cn_audio: banc13.wav
+                  atoms:
+                          - en: He
+                            zh: 他
+                            py: Tā
+                          - en: saw
+                            zh: 看到
+                          - en: this
+                            zh: 這
+                          - en: kind
+                            zh: 種
+                          - en: situation
+                            zh: 情形，
+                            py: qíngxing,
+                          - en: then
+                            zh: 就
+                          - en: help
+                            zh: 幫助
+                            py: bāngzhù
+                          - en: people
+                            zh: 人
+                          - en: cross
+                            zh: 過
+                          - en: river
+                            zh: 河。
+                - en: If some people didn't dare cross the river,
+                  en_audio: bane14.wav
+                  cn_audio: banc14.wav
+                  atoms:
+                          - en: If
+                            zh: 如果
+                            py: Rúguǒ
+                          - en: some
+                            zh: 有
+                          - en: people
+                            zh: 人
+                          - en: not
+                            zh: 不
+                          - en: dare
+                            zh: 敢
+                          - en: cross
+                            zh: 過
+                          - en: river
+                            zh: 河，
+                            py: hé,
+                - en: he then would cross the river carrying them on his back.
+                  en_audio: bane15.wav
+                  cn_audio: banc15.wav
+                  atoms:
+                          - en: he
+                            zh: 他
+                          - en: then
+                            zh: 就
+                          - en: carry
+                            zh: 背
+                          - en: on back
+                            zh: 着
+                            py: zhe
+                          - en: them
+                            zh: 他們
+                            py: tāmen
+                          - en: cross
+                            zh: 過去
+                            py: guòqu.
+                - en: No matter if it was day or night, you only needed to shout,
+                  en_audio: bane16.wav
+                  cn_audio: banc16.wav
+                  atoms:
+                          - en: No matter
+                            zh: 無論
+                            py: Wúlùn
+                          - en: day
+                            zh: 白天，
+                            py: báitiān,
+                          - en: night
+                            zh: 黑夜，
+                            py: hēiyè,
+                          - en: only
+                            zh: 只要
+                            py: zhǐyào
+                          - en: shout
+                            zh: 叫
+                          - en: a
+                            zh: 一
+                          - en: sound
+                            zh: 聖，
+                            py: shēng,
+                - en: he then would come to carry you on his back across the river.
+                  en_audio: bane17.wav
+                  cn_audio: banc17.wav
+                  atoms:
+                          - en: he
+                            zh: 他
+                          - en: then
+                            zh: 就
+                          - en: came
+                            zh: 來
+                          - en: carry on back
+                            zh: 背
+                          - en: you
+                            zh: 你
+                          - en: across
+                            zh: 過
+                          - en: river
+                            zh: 河。
+                            py: hé.
+                - en: Each time after crossing the river,
+                  en_audio: bane18.wav
+                  cn_audio: banc18.wav
+                  atoms:
+                          - en: Each
+                            zh: 每
+                            py: Měi
+                          - en: time
+                            zh: 次
+                          - en: crossing
+                            zh: 過
+                          - en: river
+                            zh: 河
+                          - en: after
+                            zh: 以後，
+                            py: yǐhòu,
+                - en: travelers would give him a little money.
+                  en_audio: bane19.wav
+                  cn_audio: banc19.wav
+                  atoms:
+                          - en: travelers
+                            zh: 客人
+                            py: kèrén
+                          - en: then
+                            zh: 就
+                          - en: gave
+                            zh: 給
+                          - en: him
+                            zh: 他
+                          - en: a little
+                            zh: 一點兒
+                            py: yìdiǎnr
+                          - en: money
+                            zh: 錢。
+                            py: qián.
+                - en: He economized by eating only a little, and by saving his money,
+                  en_audio: bane20.wav
+                  cn_audio: banc20.wav
+                  atoms:
+                          - en: He
+                            zh: 他
+                            py: Tā
+                          - en: frugal
+                            zh: 省
+                          - en: eat
+                            zh: 吃
+                          - en: thrift
+                            zh: 儉
+                          - en: use
+                            zh: 用，把
+                            py: yòng, bǎ
+                          - en: money
+                            zh: 錢
+                          - en: saving
+                            zh: 存
+                          - en: up
+                            zh: 起來，
+                            py: qǐlai, 
+                - en: he hoped he could build a bridge.
+                  en_audio: bane21.wav
+                  cn_audio: banc21.wav
+                  atoms:
+                          - en: hoping
+                            zh: 希望
+                            py: xīwàng
+                          - en: could
+                            zh: 能
+                          - en: build
+                            zh: 造
+                          - en: a
+                            zh: 一座
+                          - en: bridge
+                            zh: 橋。
+                            py: qiáo.
+                - flow: indent
+                  en: After several years, he had some savings.
+                  en_audio: bane22.wav
+                  cn_audio: banc22.wav
+                  atoms:
+                          - en: After
+                            zh: 過了
+                            py: Guò le
+                          - en: several
+                            zh: 幾
+                          - en: years
+                            zh: 年，
+                            py: nián,
+                          - en: he
+                            zh: 他
+                          - en: had
+                            zh: 有了
+                            py: yǒu le
+                          - en: some
+                            zh: 些
+                          - en: savings
+                            zh: 儲蓄。
+                            py: chǔxù.
+                - en: He thought, as he was gradually becoming older,
+                  en_audio: bane23.wav
+                  cn_audio: banc23.wav
+                  atoms:
+                          - en: He
+                            zh: 他
+                            py: Tā
+                          - en: thought
+                            zh: 想，
+                            py: xiǎng,
+                          - en: his
+                            zh: 他
+                          - en: age
+                            zh: 年紀
+                            py: niánjì
+                          - en: gradually
+                            zh: 漸漸
+                            py: jiànjiàn
+                          - en: old
+                            zh: 老了，
+                            py: lǎo le,
+                - en: he could not continue to carry people across the river on his back.
+                  en_audio: bane24.wav
+                  cn_audio: banc24.wav
+                  atoms:
+                          - en: not
+                            zh: 不
+                          - en: could
+                            zh: 能
+                          - en: always
+                            zh: 老是
+                            py: lǎoshì
+                          - en: carry on back
+                            zh: 背着
+                            py: bēi zhe
+                          - en: people
+                            zh: 人
+                          - en: across
+                            zh: 過
+                          - en: river
+                            zh: 河。
+                            py: hé.
+                - en: So he took out the money,
+                  en_audio: bane25.wav
+                  cn_audio: banc25.wav
+                  atoms:
+                          - en: So
+                            zh: 於是
+                            py: Yúshì
+                          - en: he
+                            zh: 他把
+                          - en: money
+                            zh: 錢
+                          - en: took
+                            zh: 拿
+                          - en: out
+                            zh: 出來，
+                            py: chūlai,
+                - en: and employed some workers to go to the mountains to cut down trees and quarry stones.
+                  en_audio: bane26.wav
+                  cn_audio: banc26.wav
+                  atoms:
+                          - en: employing
+                            zh: 雇
+                          - en: workers
+                            zh: 工人
+                            py: gōngrén
+                          - en: to
+                            zh: 到
+                          - en: mountains
+                            zh: 山上
+                            py: shān shang
+                          - en: go
+                            zh: 去
+                          - en: cut
+                            zh: 砍
+                          - en: trees
+                            zh: 樹，
+                            py: shù,
+                          - en: quarry
+                            zh: 鑿
+                          - en: stones
+                            zh: 石頭。
+                            py: shítou.
+                - en: When the bridge was half built, his money was all spent.
+                  en_audio: bane27.wav
+                  cn_audio: banc27.wav
+                  atoms:
+                          - en: Bridge
+                            zh: 橋
+                            py: Qiáo
+                          - en: built
+                            zh: 修建了
+                            py: xiūjiàn le
+                          - en: half
+                            zh: 一半，
+                            py: yí ban,
+                          - en: his
+                            zh: 他的
+                            py: tā de
+                          - en: money
+                            zh: 錢
+                          - en: spent
+                            zh: 花
+                          - en: all
+                            zh: 光了。
+                            py: guāng le.
+                - en: Having no money, the workers wouldn't work,
+                  en_audio: bane28.wav
+                  cn_audio: banc28.wav
+                  atoms:
+                          - en: Nor
+                            zh: 沒
+                            py: Méi
+                          - en: have
+                            zh: 有
+                          - en: money
+                            zh: 錢，
+                            py: qián,
+                          - en: workers
+                            zh: 工人
+                            py: gōngrén
+                          - en: wouldn't
+                            zh: 不
+                          - en: work
+                            zh: 幹
+                            py: gàn,
+                - en: so the work came to a stop.
+                  en_audio: bane29.wav
+                  cn_audio: banc29.wav
+                  atoms:
+                          - en: work
+                            zh: 工作
+                            py: gōngzuò
+                          - en: then
+                            zh: 就
+                          - en: stop
+                            zh: 停頓了。
+                            py: tíngdùn le.
+                - en: The half-built bridge there squatted over the river,
+                  en_audio: bane30.wav
+                  cn_audio: banc30.wav
+                  atoms:
+                          - en: Half
+                            zh: 半
+                            py: Bàn
+                          - en: built
+                            zh: 座
+                          - en: bridge
+                            zh: 橋
+                          - en: then
+                            zh: 就
+                          - en: like this
+                            zh: 這樣
+                            py: zhèyàng
+                          - en: squatted
+                            zh: 跨
+                          - en: over
+                            zh: 在
+                          - en: river
+                            zh: 河上，
+                            py: shang,
+                - en: creating an unusual sight.
+                  en_audio: bane31.wav
+                  cn_audio: banc31.wav
+                  atoms:
+                          - en: creating
+                            zh: 成了
+                            py: chéng le
+                          - en: a
+                            zh: 一個
+                            py: yí ge
+                          - en: special
+                            zh: 特殊
+                            py: tèshū
+                          - en: sight
+                            zh: 風景。
+                            py: fēngjǐng.
+                - flow: indent
+                  en: He went to a rich landlord to borrow some money,
+                  en_audio: bane32.wav
+                  cn_audio: banc32.wav
+                  atoms:
+                          - en: He
+                            zh: 他
+                            py: Tā
+                          - en: went
+                            zh: 到
+                          - en: a
+                            zh: 一個
+                            py: yí ge
+                          - en: rich
+                            zh: 有錢的
+                            py: yǒuqiánde
+                          - en: landlord
+                            zh: 地主
+                            py: dìzhǔ
+                          - en: there
+                            zh: 那兒
+                            py: nàr
+                          - en: borrow
+                            zh: 借
+                          - en: money
+                            zh: 錢，
+                            py: qián,
+                - en: "and the landlord said:"
+                  en_audio: bane33.wav
+                  cn_audio: banc33.wav
+                  atoms:
+                          - en: landlord
+                            zh: 地主
+                            py: dìzhǔ
+                          - en: said
+                            zh: 說：
+                            py: "shuō:"
+                - en: '"You are already old, without a son or daughter,'
+                  en_audio: bane34.wav
+                  cn_audio: banc34.wav
+                  atoms:
+                          - en: You
+                            zh: “你
+                            py: '"Nǐ'
+                          - en: already
+                            zh: 已經
+                            py: yǐjīng
+                          - en: old
+                            zh: 老了，
+                            py: lǎo le,
+                          - en: and
+                            zh: 又
+                          - en: not
+                            zh: 沒
+                          - en: have
+                            zh: 有
+                          - en: son or daughter
+                            zh: 子女，
+                            py: zǐnǚ,
+                - en: and if you die, who will repay the money?"
+                  en_audio: bane35.wav
+                  cn_audio: banc35.wav
+                  atoms:
+                          - en: die
+                            zh: 死了
+                            py: sǐ le
+                          - en: who
+                            zh: 誰
+                          - en: repay
+                            zh: 還
+                          - en: money
+                            zh: 錢？”
+                            py: qián?"
+                - en: The landlord was not willing to lend him the money.
+                  en_audio: bane36.wav
+                  cn_audio: banc36.wav
+                  atoms:
+                          - en: Not
+                            zh: 不
+                            py: Bù
+                          - en: willing
+                            zh: 肯
+                          - en: lend
+                            zh: 借
+                          - en: to
+                            zh: 給
+                          - en: him
+                            zh: 他。
+                            py: tā.
+                - en: He again tried, begging from people passing by,
+                  en_audio: bane37.wav
+                  cn_audio: banc37.wav
+                  atoms:
+                          - en: He
+                            zh: 他
+                            py: Tā
+                          - en: again
+                            zh: 又
+                          - en: to
+                            zh: 向
+                          - en: passing by
+                            zh: 過路的
+                            py: guò lù de
+                          - en: people
+                            zh: 人
+                          - en: beg
+                            zh: 乞討，
+                            py: qǐtǎo,
+                - en: hoping they could contribute,
+                  en_audio: bane38.wav
+                  cn_audio: banc38.wav
+                  atoms:
+                          - en: hoping
+                            zh: 希望
+                            py: xīwàng
+                          - en: they
+                            zh: 他們
+                            py: tāmen
+                          - en: could
+                            zh: 能
+                          - en: contribute
+                            zh: 捐助，
+                            py: juānzhù,
+                - en: but they all were very poor, and could not give him much.
+                  en_audio: bane39.wav
+                  cn_audio: banc39.wav
+                  atoms:
+                          - en: but
+                            zh: 可是
+                            py: kěshì
+                          - en: everyone
+                            zh: 大家
+                            py: dàjiā
+                          - en: all
+                            zh: 都
+                          - en: very
+                            zh: 很
+                          - en: poor
+                            zh: 窮，
+                            py: qióng,
+                          - en: gave
+                            zh: 給
+                          - en: money
+                            zh: 的
+                            py: de
+                          - en: not
+                            zh: 不
+                          - en: much
+                            zh: 多。
+                            py: duō.
+                - en: The half-built bridge was still half built,
+                  en_audio: bane40.wav
+                  cn_audio: banc40.wav
+                  atoms:
+                          - en: Half
+                            zh: 半
+                            py: Bàn
+                          - en: built
+                            zh: 座
+                          - en: bridge
+                            zh: 橋
+                          - en: still
+                            zh: 還是
+                            py: háishì
+                          - en: half
+                            zh: 半
+                          - en: built
+                            zh: 座
+                          - en: bridge
+                            zh: 橋，
+                            py: qiáo,
