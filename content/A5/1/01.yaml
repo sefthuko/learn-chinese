@@ -16,6 +16,8 @@ body:
         lines:
                 - flow: indent
                   en: Long ago, there was a river, which had no bridge.
+                  en_audio: "bane01.wav"
+                  cn_audio: "banc01.wav"
                   atoms:
                           - en: Long ago
                             zh: 從前
@@ -40,6 +42,8 @@ body:
                             zh: 橋。
                             py: qiáo.
                 - en: The river was not deep, and as it was not possible to have a ferry,
+                  en_audio: "bane02.wav"
+                  cn_audio: "banc02.wav"
                   atoms:
                           - en: River
                             zh: 河
@@ -60,6 +64,8 @@ body:
                             zh: 渡船，
                             py: dùchuán,
                 - en: the people had to wade through the water to go back and forth.
+                  en_audio: "bane03.wav"
+                  cn_audio: "banc03.wav"
                   atoms:
                           - en: came and went
                             zh: 来往
@@ -81,6 +87,8 @@ body:
                             zh: 過去。
                             py: guòqu.
                 - en: Some people feared the water and did not dare to cross.
+                  en_audio: "bane04.wav"
+                  cn_audio: "banc04.wav"
                   atoms:
                           - en: Some
                             zh: 有的
@@ -101,6 +109,8 @@ body:
                             zh: 過去。
                             py: guòqu.
                 - en: Because the rocks in the river were high and low, not level,
+                  en_audio: "bane05.wav"
+                  cn_audio: "banc05.wav"
                   atoms:
                           - en: Because
                             zh: 因為
@@ -125,6 +135,8 @@ body:
                             zh: 平，
                             py: píng,
                 - en: some people were afraid they would slide down, and so they were unwilling to cross.
+                  en_audio: "bane06.wav"
+                  cn_audio: "banc06.wav"
                   atoms:
                           - en: some
                             zh: 有的

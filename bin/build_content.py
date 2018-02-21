@@ -38,7 +38,8 @@ def fill_atom(atom, charset):
     return cn, py, en
 
 def write_line(line, f, charset):
-    f.write("""        <div class="audio">""")
+    f.write("""        <div class="audio" onClick="new Audio('{}').play();">\n""".format(line["cn_audio"]))
+
     for atom in line["atoms"]:
         cn, py, en = fill_atom(atom, charset)
         f.write("""            <div class="atom highlight">
@@ -49,9 +50,9 @@ def write_line(line, f, charset):
 """.format(py, cn, en))
     f.write("""        </div>
             <br>
-            <div class="atom audio">({})</div>
+            <div class="atom audio" onClick="new Audio('{}').play();">({})</div>
         </div>
-""".format(line["en"]))
+""".format(line["en_audio"], line["en"]))
 
 def write_content(content, f, charset):
     f.write("""<html>
