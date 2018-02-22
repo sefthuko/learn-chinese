@@ -828,3 +828,358 @@ body:
                           - en: bridge
                             zh: 橋，
                             py: qiáo,
+                - en: still hanging over the river.
+                  en_audio: bane41.wav
+                  cn_audio: banc41.wav
+                  atoms:
+                          - en: still
+                            zh: 一直
+                            py: yìzhí
+                          - en: hanging
+                            zh: 懸
+                          - en: over
+                            zh: 在
+                          - en: river
+                            zh: 河上。
+                            py: hé shang.
+                - en: There was no way to achieve his wish,
+                  en_audio: bane42.wav
+                  cn_audio: banc42.wav
+                  atoms:
+                          - en: His
+                            zh: 他的
+                            py: Tā de
+                          - en: wish
+                            zh: 願望
+                            py: yuànwàng
+                          - en: no
+                            zh: 無
+                          - en: way
+                            zh: 法
+                          - en: achieve
+                            zh: 大成，
+                            py: dáchéng,
+                - en: so he was feeling broken-hearted,
+                  en_audio: bane43.wav
+                  cn_audio: banc43.wav
+                  atoms:
+                          - en: felt
+                            zh: 感到
+                            py: gǎndào
+                          - en: very
+                            zh: 很
+                          - en: broken-hearted
+                            zh: 傷心，
+                            py: shāngxīn,
+                - en: and sat all day by the bridge shedding tears.
+                  en_audio: bane44.wav
+                  cn_audio: banc44.wav
+                  atoms:
+                          - en: all
+                            zh: 整
+                          - en: day
+                            zh: 天
+                          - en: at
+                            zh: 在
+                          - en: bridge
+                            zh: 橋
+                          - zh: 頭上
+                            py: tóu shang
+                          - en: shed
+                            zh: 流
+                          - en: tears
+                            zh: 淚。
+                            py: lèi.
+                - en: One day, 
+                  en_audio: bane45.wav
+                  cn_audio: banc45.wav
+                  atoms:
+                          - en: There was
+                            zh: 有
+                            py: Yǒu
+                          - en: a
+                            zh: 一
+                          - en: day
+                            zh: 天，
+                            py: tiān,
+                - en: a young girl rode a horse to cross the bridge.
+                  en_audio: bane46.wav
+                  cn_audio: banc46.wav
+                  atoms:
+                          - en: a
+                            zh: 一個
+                            py: yí ge
+                          - en: young
+                            zh: 年輕
+                            py: niánqīng
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - en: rode
+                            zh: 騎着
+                            py: qí zhe
+                          - en: horse
+                            zh: 馬
+                          - en: cross
+                            zh: 過
+                          - en: bridge
+                            zh: 橋。
+                            py: qiáo.
+                - en: She walked on to the bridge,
+                  en_audio: bane47.wav
+                  cn_audio: banc47.wav
+                  atoms:
+                          - en: She
+                            zh: 她
+                            py: Tā
+                          - en: walked
+                            zh: 走
+                          - en: on
+                            zh: 上
+                          - en: bridge
+                            zh: 橋
+                          - zh: 去，
+                            py: qu,
+                - en: Strangely, there was only one-half there!
+                  en_audio: bane48.wav
+                  cn_audio: banc48.wav
+                  atoms:
+                          - en: Strangely
+                            zh: 奇怪！
+                            py: Qíguài!
+                          - en: Only
+                            zh: 只有
+                            py: Zhǐyǒu
+                          - en: one
+                            zh: 一
+                          - en: half
+                            zh: 半！
+                            py: bàn!
+                - en: Without a way to cross, she could only retreat and go back.
+                  en_audio: bane49.wav
+                  cn_audio: banc49.wav
+                  atoms:
+                          - en: No
+                            zh: 沒
+                            py: Méi
+                          - en: way
+                            zh: 辦法
+                            py: bànfa
+                          - en: cross
+                            zh: 過，
+                            py: guò,
+                          - en: only
+                            zh: 只好
+                            py: zhǐhǎo
+                          - en: retreat
+                            zh: 退
+                          - en: back
+                            zh: 回來。
+                            py: huílai.
+                - en: She saw the old man weeping by the side of the bridge,
+                  en_audio: bane50.wav
+                  cn_audio: banc50.wav
+                  atoms:
+                          - en: She
+                            zh: 她
+                            py: Tā
+                          - en: saw
+                            zh: 看到
+                          - en: bridge
+                            zh: 橋
+                          - en: side
+                            zh: 邊
+                          - en: there was
+                            zh: 有
+                          - en: an
+                            zh: 個
+                            py: ge
+                          - en: old man
+                            zh: 老人
+                            py: lǎorén
+                          - en: is
+                            zh: 在
+                          - en: shedding
+                            zh: 流
+                          - en: tears
+                            zh: 淚，
+                            py: lèi,
+                - en: "so she asked him: \"How could this affair happen? "
+                  en_audio: bane51.wav
+                  cn_audio: banc51.wav
+                  atoms:
+                          - en: then
+                            zh: 就
+                          - en: asked
+                            zh: 問
+                          - en: him
+                            zh: 他：
+                            py: "tā:"
+                          - en: This
+                            zh: ”這
+                            py: "\"Zhè"
+                          - en: is
+                            zh: 是
+                          - en: how
+                            zh: 怎麼
+                            py: zěnme
+                          - en: an
+                            zh: 回
+                          - en: affair
+                            zh: 事？
+                            py: shì?
+                - en: I have never seen only half of a bridge!
+                  en_audio: bane52.wav
+                  cn_audio: banc52.wav
+                  atoms:
+                          - en: Never
+                            zh: 從來
+                            py: Cónglái
+                          - en: have
+                            zh: 沒
+                          - en: seen
+                            zh: 見過
+                            py: jiànguo
+                          - en: half
+                            zh: 半座
+                          - en: bridge
+                            zh: 橋
+                          - en: one
+                            zh: 的！“
+                            py: de!"
+                - en: The old man told her all the things that happened,
+                  en_audio: bane53.wav
+                  cn_audio: banc53.wav
+                  atoms:
+                          - en: Old
+                            zh: 老
+                            py: Lǎo
+                          - en: man
+                            zh: 人
+                          - en: told
+                            zh: 告訴
+                            py: gàosu
+                          - en: her
+                            zh: 她
+                          - en: all
+                            zh: 所有的
+                            py: suǒyǒude
+                          - en: happened
+                            zh: 經過，
+                            py: jīngguò,
+                - en: "so the young girl was very sympathetic to him, saying:"
+                  en_audio: bane54.wav
+                  cn_audio: banc54.wav
+                  atoms:
+                          - en: that
+                            zh: 那個
+                            py: nèi ge
+                          - en: young
+                            zh: 年輕
+                            py: niánqīng
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - en: very
+                            zh: 很
+                          - en: sympathetic
+                            zh: 同情
+                            py: tóngqíng
+                          - en: him
+                            zh: 他，
+                            py: tā,
+                          - en: saying
+                            zh: 說：
+                            py: "shuō:"
+                - en: "Let me come to help you with this job."
+                  en_audio: bane55.wav
+                  cn_audio: banc55.wav
+                  atoms:
+                          - en: Let
+                            zh: “讓
+                            py: Ràng
+                          - en: me
+                            zh: 我
+                          - en: come
+                            zh: 來
+                          - en: help
+                            zh: 幫
+                          - en: you
+                            zh: 你
+                          - en: this
+                            zh: 這個
+                            py: zhèi ge
+                          - en: job
+                            zh: 忙。“
+                            py: máng."
+                - en: The young girl was very pretty,
+                  en_audio: bane56.wav
+                  cn_audio: banc56.wav
+                  atoms:
+                          - en: That
+                            zh: 那個
+                            py: Nèi ge
+                          - en: younger
+                            zh: 年輕
+                            py: niánqīng
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - en: growing
+                            zh: 長得
+                            py: zhǎng de
+                          - en: very
+                            zh: 很
+                          - en: pretty
+                            zh: 漂亮，
+                            py: piàoliang,
+                - en: her body was also very strong,
+                  en_audio: bane57.wav
+                  cn_audio: banc57.wav
+                  atoms:
+                          - en: body
+                            zh: 身體
+                            py: shēntǐ
+                          - en: also
+                            zh: 又
+                          - en: very
+                            zh: 很
+                          - en: strong
+                            zh: 結實，
+                            py: jiēshi,
+                - en: and one could see that she practiced martial arts.
+                  en_audio: bane58.wav
+                  cn_audio: banc58.wav
+                  atoms:
+                          - en: look
+                            zh: 看
+                          - en: like
+                            zh: 起來
+                            py: qǐlai
+                          - en: was
+                            zh: 是
+                          - en: practiced
+                            zh: 練過
+                            py: liànguo
+                          - en: martial arts
+                            zh: 武術
+                            py: wǔshù
+                          - en: person
+                            zh: 的。
+                            py: de.
+                - en: She stood at the head of the bridge,
+                  en_audio: bane59.wav
+                  cn_audio: banc59.wav
+                  atoms:
+                          - en: She
+                            zh: 她
+                            py: Tā
+                          - en: stood
+                            zh: 站
+                          - en: at
+                            zh: 在
+                          - en: bridge
+                            zh: 橋
+                          - en: head
+                            zh: 頭，
+                            py: tóu,
