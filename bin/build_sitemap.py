@@ -27,9 +27,8 @@ def write_stories(stories, f):
         s = parse_story(yaml_path)
 
         f.write("""<li>
-    <a href="{}_trad.html">{} (traditional)</a><br>
-    <a href="{}_simp.html">{} (simplified)</a></li>
-""".format(segments, s["title"]["en"], segments, s["title"]["en"]))
+    <a href="{}.html">{}</a></li>
+""".format(segments, s["title"]["en"]))
 
     f.write("</ul>\n")
 
@@ -45,7 +44,7 @@ def write_categories(categories, f):
             py = pinyin.get(zh, delimiter=" ")
         f.write("<ul>\n")
         f.write("<li>\n")
-        f.write("{}<br>{}<br>{}<br>{}".format(category["en"], cn, zh, py))
+        f.write("{}".format(category["en"]))
         write_sitemap(category, f) 
         f.write("</li>\n")
         f.write("</ul>\n")

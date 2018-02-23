@@ -1,7 +1,7 @@
 title:
         en: One-Half Bridge
-        en_audio: bane0.wav
-        cn_audio: banc0.wav
+        en_audio: /story1/educationalstories/cebanzuo/bane0.wav
+        cn_audio: /story1/educationalstories/cebanzuo/banc0.wav
         atoms:
                 - en: Half
                   zh: 半
@@ -16,8 +16,8 @@ body:
         lines:
                 - flow: indent
                   en: Long ago, there was a river, which had no bridge.
-                  en_audio: bane01.wav
-                  cn_audio: banc01.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane01.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc01.wav
                   atoms:
                           - en: Long ago
                             zh: 從前
@@ -42,8 +42,8 @@ body:
                             zh: 橋。
                             py: qiáo.
                 - en: The river was not deep, and as it was not possible to have a ferry,
-                  en_audio: bane02.wav
-                  cn_audio: banc02.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane02.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc02.wav
                   atoms:
                           - en: River
                             zh: 河
@@ -64,8 +64,8 @@ body:
                             zh: 渡船，
                             py: dùchuán,
                 - en: the people had to wade through the water to go back and forth.
-                  en_audio: bane03.wav
-                  cn_audio: banc03.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane03.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc03.wav
                   atoms:
                           - en: came and went
                             zh: 来往
@@ -87,8 +87,8 @@ body:
                             zh: 過去。
                             py: guòqu.
                 - en: Some people feared the water and did not dare to cross.
-                  en_audio: bane04.wav
-                  cn_audio: banc04.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane04.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc04.wav
                   atoms:
                           - en: Some
                             zh: 有的
@@ -109,8 +109,8 @@ body:
                             zh: 過去。
                             py: guòqu.
                 - en: Because the rocks in the river were high and low, not level,
-                  en_audio: bane05.wav
-                  cn_audio: banc05.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane05.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc05.wav
                   atoms:
                           - en: Because
                             zh: 因為
@@ -135,8 +135,8 @@ body:
                             zh: 平，
                             py: píng,
                 - en: some people were afraid they would slide down, and so they were unwilling to cross.
-                  en_audio: bane06.wav
-                  cn_audio: banc06.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane06.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc06.wav
                   atoms:
                           - en: some
                             zh: 有的
@@ -160,8 +160,8 @@ body:
                             zh: 過去
                             py: guòqu.
                 - en: There also were the elderly, children, and sick people,
-                  en_audio: bane07.wav
-                  cn_audio: banc07.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane07.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc07.wav
                   atoms:
                           - en: also
                             zh: 還
@@ -181,8 +181,8 @@ body:
                             zh: 人，
                             py: rén,
                 - en: all of whom had no way to cross the river.
-                  en_audio: bane08.wav
-                  cn_audio: banc08.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane08.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc08.wav
                   atoms:
                           - en: all
                             zh: 都
@@ -196,8 +196,8 @@ body:
                             zh: 河。
                             py: hé.
                 - en: When it rained the water level rose high,
-                  en_audio: bane09.wav
-                  cn_audio: banc09.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane09.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc09.wav
                   atoms:
                           - en: Rained 
                             zh: 下雨 
@@ -216,8 +216,8 @@ body:
                             zh: 高，
                             py: gāo,
                 - en: and since the water was very deep, the traffic was then disrupted.
-                  en_audio: bane10.wav
-                  cn_audio: banc10.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane10.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc10.wav
                   atoms:
                           - en: water
                             zh: 水
@@ -237,8 +237,8 @@ body:
                             py: le.
                 - flow: indent
                   en: By the side of the river, there lived a man,
-                  en_audio: bane11.wav
-                  cn_audio: banc11.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane11.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc11.wav
                   atoms:
                           - en: River
                             zh: 河
@@ -257,8 +257,8 @@ body:
                             zh: 人，
                             py: rén,
                 - en: who was very sincere and honest, and a very hard worker.
-                  en_audio: bane12.wav
-                  cn_audio: banc12.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane12.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc12.wav
                   atoms:
                           - en: very
                             zh: 很
@@ -275,8 +275,8 @@ body:
                             zh: 工作。
                             py: gōngzuò.
                 - en: When he saw this situation he would help people cross the river. 
-                  en_audio: bane13.wav
-                  cn_audio: banc13.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane13.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc13.wav
                   atoms:
                           - en: He
                             zh: 他
@@ -302,8 +302,8 @@ body:
                           - en: river
                             zh: 河。
                 - en: If some people didn't dare cross the river,
-                  en_audio: bane14.wav
-                  cn_audio: banc14.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane14.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc14.wav
                   atoms:
                           - en: If
                             zh: 如果
@@ -322,8 +322,8 @@ body:
                             zh: 河，
                             py: hé,
                 - en: he then would cross the river carrying them on his back.
-                  en_audio: bane15.wav
-                  cn_audio: banc15.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane15.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc15.wav
                   atoms:
                           - en: he
                             zh: 他
@@ -341,8 +341,8 @@ body:
                             zh: 過去
                             py: guòqu.
                 - en: No matter if it was day or night, you only needed to shout,
-                  en_audio: bane16.wav
-                  cn_audio: banc16.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane16.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc16.wav
                   atoms:
                           - en: No matter
                             zh: 無論
@@ -364,8 +364,8 @@ body:
                             zh: 聖，
                             py: shēng,
                 - en: he then would come to carry you on his back across the river.
-                  en_audio: bane17.wav
-                  cn_audio: banc17.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane17.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc17.wav
                   atoms:
                           - en: he
                             zh: 他
@@ -383,8 +383,8 @@ body:
                             zh: 河。
                             py: hé.
                 - en: Each time after crossing the river,
-                  en_audio: bane18.wav
-                  cn_audio: banc18.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane18.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc18.wav
                   atoms:
                           - en: Each
                             zh: 每
@@ -399,8 +399,8 @@ body:
                             zh: 以後，
                             py: yǐhòu,
                 - en: travelers would give him a little money.
-                  en_audio: bane19.wav
-                  cn_audio: banc19.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane19.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc19.wav
                   atoms:
                           - en: travelers
                             zh: 客人
@@ -418,8 +418,8 @@ body:
                             zh: 錢。
                             py: qián.
                 - en: He economized by eating only a little, and by saving his money,
-                  en_audio: bane20.wav
-                  cn_audio: banc20.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane20.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc20.wav
                   atoms:
                           - en: He
                             zh: 他
@@ -441,8 +441,8 @@ body:
                             zh: 起來，
                             py: qǐlai, 
                 - en: he hoped he could build a bridge.
-                  en_audio: bane21.wav
-                  cn_audio: banc21.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane21.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc21.wav
                   atoms:
                           - en: hoping
                             zh: 希望
@@ -458,8 +458,8 @@ body:
                             py: qiáo.
                 - flow: indent
                   en: After several years, he had some savings.
-                  en_audio: bane22.wav
-                  cn_audio: banc22.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane22.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc22.wav
                   atoms:
                           - en: After
                             zh: 過了
@@ -480,8 +480,8 @@ body:
                             zh: 儲蓄。
                             py: chǔxù.
                 - en: He thought, as he was gradually becoming older,
-                  en_audio: bane23.wav
-                  cn_audio: banc23.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane23.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc23.wav
                   atoms:
                           - en: He
                             zh: 他
@@ -501,8 +501,8 @@ body:
                             zh: 老了，
                             py: lǎo le,
                 - en: he could not continue to carry people across the river on his back.
-                  en_audio: bane24.wav
-                  cn_audio: banc24.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane24.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc24.wav
                   atoms:
                           - en: not
                             zh: 不
@@ -522,8 +522,8 @@ body:
                             zh: 河。
                             py: hé.
                 - en: So he took out the money,
-                  en_audio: bane25.wav
-                  cn_audio: banc25.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane25.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc25.wav
                   atoms:
                           - en: So
                             zh: 於是
@@ -538,8 +538,8 @@ body:
                             zh: 出來，
                             py: chūlai,
                 - en: and employed some workers to go to the mountains to cut down trees and quarry stones.
-                  en_audio: bane26.wav
-                  cn_audio: banc26.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane26.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc26.wav
                   atoms:
                           - en: employing
                             zh: 雇
@@ -564,8 +564,8 @@ body:
                             zh: 石頭。
                             py: shítou.
                 - en: When the bridge was half built, his money was all spent.
-                  en_audio: bane27.wav
-                  cn_audio: banc27.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane27.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc27.wav
                   atoms:
                           - en: Bridge
                             zh: 橋
@@ -587,8 +587,8 @@ body:
                             zh: 光了。
                             py: guāng le.
                 - en: Having no money, the workers wouldn't work,
-                  en_audio: bane28.wav
-                  cn_audio: banc28.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane28.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc28.wav
                   atoms:
                           - en: Nor
                             zh: 沒
@@ -607,8 +607,8 @@ body:
                             zh: 幹
                             py: gàn,
                 - en: so the work came to a stop.
-                  en_audio: bane29.wav
-                  cn_audio: banc29.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane29.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc29.wav
                   atoms:
                           - en: work
                             zh: 工作
@@ -619,8 +619,8 @@ body:
                             zh: 停頓了。
                             py: tíngdùn le.
                 - en: The half-built bridge there squatted over the river,
-                  en_audio: bane30.wav
-                  cn_audio: banc30.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane30.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc30.wav
                   atoms:
                           - en: Half
                             zh: 半
@@ -642,8 +642,8 @@ body:
                             zh: 河上，
                             py: shang,
                 - en: creating an unusual sight.
-                  en_audio: bane31.wav
-                  cn_audio: banc31.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane31.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc31.wav
                   atoms:
                           - en: creating
                             zh: 成了
@@ -659,8 +659,8 @@ body:
                             py: fēngjǐng.
                 - flow: indent
                   en: He went to a rich landlord to borrow some money,
-                  en_audio: bane32.wav
-                  cn_audio: banc32.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane32.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc32.wav
                   atoms:
                           - en: He
                             zh: 他
@@ -685,8 +685,8 @@ body:
                             zh: 錢，
                             py: qián,
                 - en: "and the landlord said:"
-                  en_audio: bane33.wav
-                  cn_audio: banc33.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane33.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc33.wav
                   atoms:
                           - en: landlord
                             zh: 地主
@@ -695,8 +695,8 @@ body:
                             zh: 說：
                             py: "shuō:"
                 - en: '"You are already old, without a son or daughter,'
-                  en_audio: bane34.wav
-                  cn_audio: banc34.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane34.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc34.wav
                   atoms:
                           - en: You
                             zh: “你
@@ -717,8 +717,8 @@ body:
                             zh: 子女，
                             py: zǐnǚ,
                 - en: and if you die, who will repay the money?"
-                  en_audio: bane35.wav
-                  cn_audio: banc35.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane35.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc35.wav
                   atoms:
                           - en: die
                             zh: 死了
@@ -731,8 +731,8 @@ body:
                             zh: 錢？”
                             py: qián?"
                 - en: The landlord was not willing to lend him the money.
-                  en_audio: bane36.wav
-                  cn_audio: banc36.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane36.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc36.wav
                   atoms:
                           - en: Not
                             zh: 不
@@ -747,8 +747,8 @@ body:
                             zh: 他。
                             py: tā.
                 - en: He again tried, begging from people passing by,
-                  en_audio: bane37.wav
-                  cn_audio: banc37.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane37.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc37.wav
                   atoms:
                           - en: He
                             zh: 他
@@ -766,8 +766,8 @@ body:
                             zh: 乞討，
                             py: qǐtǎo,
                 - en: hoping they could contribute,
-                  en_audio: bane38.wav
-                  cn_audio: banc38.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane38.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc38.wav
                   atoms:
                           - en: hoping
                             zh: 希望
@@ -781,8 +781,8 @@ body:
                             zh: 捐助，
                             py: juānzhù,
                 - en: but they all were very poor, and could not give him much.
-                  en_audio: bane39.wav
-                  cn_audio: banc39.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane39.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc39.wav
                   atoms:
                           - en: but
                             zh: 可是
@@ -808,8 +808,8 @@ body:
                             zh: 多。
                             py: duō.
                 - en: The half-built bridge was still half built,
-                  en_audio: bane40.wav
-                  cn_audio: banc40.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane40.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc40.wav
                   atoms:
                           - en: Half
                             zh: 半
@@ -829,8 +829,8 @@ body:
                             zh: 橋，
                             py: qiáo,
                 - en: still hanging over the river.
-                  en_audio: bane41.wav
-                  cn_audio: banc41.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane41.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc41.wav
                   atoms:
                           - en: still
                             zh: 一直
@@ -843,8 +843,8 @@ body:
                             zh: 河上。
                             py: hé shang.
                 - en: There was no way to achieve his wish,
-                  en_audio: bane42.wav
-                  cn_audio: banc42.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane42.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc42.wav
                   atoms:
                           - en: His
                             zh: 他的
@@ -860,8 +860,8 @@ body:
                             zh: 大成，
                             py: dáchéng,
                 - en: so he was feeling broken-hearted,
-                  en_audio: bane43.wav
-                  cn_audio: banc43.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane43.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc43.wav
                   atoms:
                           - en: felt
                             zh: 感到
@@ -872,8 +872,8 @@ body:
                             zh: 傷心，
                             py: shāngxīn,
                 - en: and sat all day by the bridge shedding tears.
-                  en_audio: bane44.wav
-                  cn_audio: banc44.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane44.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc44.wav
                   atoms:
                           - en: all
                             zh: 整
@@ -891,8 +891,8 @@ body:
                             zh: 淚。
                             py: lèi.
                 - en: One day, 
-                  en_audio: bane45.wav
-                  cn_audio: banc45.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane45.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc45.wav
                   atoms:
                           - en: There was
                             zh: 有
@@ -903,8 +903,8 @@ body:
                             zh: 天，
                             py: tiān,
                 - en: a young girl rode a horse to cross the bridge.
-                  en_audio: bane46.wav
-                  cn_audio: banc46.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane46.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc46.wav
                   atoms:
                           - en: a
                             zh: 一個
@@ -926,8 +926,8 @@ body:
                             zh: 橋。
                             py: qiáo.
                 - en: She walked on to the bridge,
-                  en_audio: bane47.wav
-                  cn_audio: banc47.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane47.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc47.wav
                   atoms:
                           - en: She
                             zh: 她
@@ -941,8 +941,8 @@ body:
                           - zh: 去，
                             py: qu,
                 - en: Strangely, there was only one-half there!
-                  en_audio: bane48.wav
-                  cn_audio: banc48.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane48.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc48.wav
                   atoms:
                           - en: Strangely
                             zh: 奇怪！
@@ -956,8 +956,8 @@ body:
                             zh: 半！
                             py: bàn!
                 - en: Without a way to cross, she could only retreat and go back.
-                  en_audio: bane49.wav
-                  cn_audio: banc49.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane49.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc49.wav
                   atoms:
                           - en: No
                             zh: 沒
@@ -977,8 +977,8 @@ body:
                             zh: 回來。
                             py: huílai.
                 - en: She saw the old man weeping by the side of the bridge,
-                  en_audio: bane50.wav
-                  cn_audio: banc50.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane50.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc50.wav
                   atoms:
                           - en: She
                             zh: 她
@@ -1005,8 +1005,8 @@ body:
                             zh: 淚，
                             py: lèi,
                 - en: "so she asked him: \"How could this affair happen? "
-                  en_audio: bane51.wav
-                  cn_audio: banc51.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane51.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc51.wav
                   atoms:
                           - en: then
                             zh: 就
@@ -1029,8 +1029,8 @@ body:
                             zh: 事？
                             py: shì?
                 - en: I have never seen only half of a bridge!
-                  en_audio: bane52.wav
-                  cn_audio: banc52.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane52.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc52.wav
                   atoms:
                           - en: Never
                             zh: 從來
@@ -1048,8 +1048,8 @@ body:
                             zh: 的！“
                             py: de!"
                 - en: The old man told her all the things that happened,
-                  en_audio: bane53.wav
-                  cn_audio: banc53.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane53.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc53.wav
                   atoms:
                           - en: Old
                             zh: 老
@@ -1068,8 +1068,8 @@ body:
                             zh: 經過，
                             py: jīngguò,
                 - en: "so the young girl was very sympathetic to him, saying:"
-                  en_audio: bane54.wav
-                  cn_audio: banc54.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane54.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc54.wav
                   atoms:
                           - en: that
                             zh: 那個
@@ -1092,8 +1092,8 @@ body:
                             zh: 說：
                             py: "shuō:"
                 - en: "Let me come to help you with this job."
-                  en_audio: bane55.wav
-                  cn_audio: banc55.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane55.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc55.wav
                   atoms:
                           - en: Let
                             zh: “讓
@@ -1113,8 +1113,8 @@ body:
                             zh: 忙。“
                             py: máng."
                 - en: The young girl was very pretty,
-                  en_audio: bane56.wav
-                  cn_audio: banc56.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane56.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc56.wav
                   atoms:
                           - en: That
                             zh: 那個
@@ -1134,8 +1134,8 @@ body:
                             zh: 漂亮，
                             py: piàoliang,
                 - en: her body was also very strong,
-                  en_audio: bane57.wav
-                  cn_audio: banc57.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane57.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc57.wav
                   atoms:
                           - en: body
                             zh: 身體
@@ -1148,8 +1148,8 @@ body:
                             zh: 結實，
                             py: jiēshi,
                 - en: and one could see that she practiced martial arts.
-                  en_audio: bane58.wav
-                  cn_audio: banc58.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane58.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc58.wav
                   atoms:
                           - en: look
                             zh: 看
@@ -1168,8 +1168,8 @@ body:
                             zh: 的。
                             py: de.
                 - en: She stood at the head of the bridge,
-                  en_audio: bane59.wav
-                  cn_audio: banc59.wav
+                  en_audio: /story1/educationalstories/cebanzuo/bane59.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc59.wav
                   atoms:
                           - en: She
                             zh: 她
@@ -1183,3 +1183,694 @@ body:
                           - en: head
                             zh: 頭，
                             py: tóu,
+                - en: "and said to the people who were coming and going:"
+                  en_audio: /story1/educationalstories/cebanzuo/bane60.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc60.wav
+                  atoms:
+                          - en: to
+                            zh: 對
+                          - en: coming and going
+                            zh: 來往
+                            py: láiwǎng
+                          - zh: 的
+                            py: de
+                          - en: people
+                            zh: 人
+                          - en: said
+                            zh: 說：
+                            py: "shuō:"
+                - en: "\"Will all the guests please listen carefully,"
+                  en_audio: /story1/educationalstories/cebanzuo/bane61.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc61.wav
+                  atoms:
+                          - en: All
+                            zh: “諸
+                            py: "\"Zhū"
+                          - zh: 位
+                          - en: guests
+                            zh: 客人
+                            py: kèrén
+                          - en: listen
+                            zh: 廳
+                          - zh: 個
+                            py: ge
+                          - en: carefully
+                            zh: 真，
+                            py: zhēn,
+                - en: I will sell myself in order to build the bridge;
+                  en_audio: /story1/educationalstories/cebanzuo/bane62.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc62.wav
+                  atoms:
+                          - en: I
+                            zh: 我
+                          - en: for
+                            zh: 為
+                          - en: building
+                            zh: 修
+                          - en: bridge
+                            zh: 橋
+                          - en: to
+                            zh: 來
+                          - en: sell
+                            zh: 賣
+                          - en: myself
+                            zh: 身；
+                            py: shēn;
+                - en: if anyone can hit me with a silver coin,
+                  en_audio: /story1/educationalstories/cebanzuo/bane63.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc63.wav
+                  atoms:
+                          - en: who
+                            zh: 誰
+                          - en: uses
+                            zh: 用
+                          - en: white
+                            zh: 白
+                          - en: silver
+                            zh: 銀
+                          - en: hit
+                            zh: 打
+                          - en: on
+                            zh: 中
+                          - en: me
+                            zh: 我，
+                            py: wǒ,
+                - en: "I then will marry him.\""
+                  en_audio: /story1/educationalstories/cebanzuo/bane64.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc64.wav
+                  atoms:
+                          - en: I
+                            zh: 我
+                          - en: then
+                            zh: 就
+                          - en: with
+                            zh: 跟
+                          - en: him
+                            zh: 他
+                          - en: marry
+                            zh: 結成
+                            py: jiéchéng
+                          - zh: 親。“
+                            py: "qīn.\""
+                - flow: indent
+                  en: This strange news very quickly spread out,
+                  en_audio: /story1/educationalstories/cebanzuo/bane65.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc65.wav
+                  atoms:
+                          - en: This
+                            zh: 這個
+                            py: Zhèi ge
+                          - en: strange
+                            zh: 奇怪的
+                          - en: news
+                            zh: 消息
+                            py: xiāoxi
+                          - en: very
+                            zh: 很
+                          - en: quickly
+                            zh: 快
+                          - en: then
+                            zh: 就
+                          - en: spread out
+                            zh: 傳開了，
+                            py: chuánkāi le,
+                - en: and rich landlords, bosses, officials all came to throw money. 
+                  en_audio: /story1/educationalstories/cebanzuo/bane66.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc66.wav
+                  atoms:
+                          - en: rich
+                            zh: 有錢的
+                            py: yǒuqiánde
+                          - en: landlords
+                            zh: 地主，
+                            py: dìzhǔ,
+                          - en: bosses
+                            zh: 老闆，
+                            py: lǎobǎn,
+                          - en: officials
+                            zh: 官員
+                            py: guānyuán
+                          - en: all
+                            zh: 都
+                          - en: came
+                            zh: 來
+                          - en: throw
+                            zh: 扔
+                          - en: money
+                            zh: 錢。
+                            py: qián.
+                - en: They all thought to spend some money,
+                  en_audio: /story1/educationalstories/cebanzuo/bane67.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc67.wav
+                  atoms:
+                          - en: Everyone
+                            zh: 大家
+                            py: Dàjiā
+                          - en: all
+                            zh: 都
+                          - en: thought
+                            zh: 想
+                          - en: spend
+                            zh: 花
+                          - en: some
+                            zh: 幾個
+                            py: jǐ ge
+                          - en: money
+                            zh: 錢，
+                            py: qián,
+                - en: and marry a girl as pretty as a flower or jade to become a concubine.
+                  en_audio: /story1/educationalstories/cebanzuo/bane68.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc68.wav
+                  atoms:
+                          - en: marry
+                            zh: 娶
+                          - en: a
+                            zh: 一個
+                            py: yí ge
+                          - en: as
+                            zh: 如
+                          - en: flower
+                            zh: 花
+                          - en: as
+                            zh: 似
+                          - en: jade
+                            zh: 玉的
+                            py: yù de
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - en: become
+                            zh: 作
+                          - en: concubine
+                            zh: 小老婆。
+                            py: xiǎolǎopo.
+                - en: The girl certainly was very outstanding at martial arts.
+                  en_audio: /story1/educationalstories/cebanzuo/bane69.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc69.wav
+                  atoms:
+                          - en: That
+                            zh: 那個
+                            py: Nèi ge
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - en: certainly
+                            zh: 的確
+                            py: díquè
+                          - en: martial arts
+                            zh: 武術
+                            py: wǔshù
+                          - en: outstanding
+                            zh: 高強。
+                            py: gāoqiáng.
+                - en: The silver coins flew up and down,
+                  en_audio: /story1/educationalstories/cebanzuo/bane70.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc70.wav
+                  atoms:
+                          - en: White
+                            zh: 白
+                            py: Bái
+                          - en: silver
+                            zh: 銀
+                          - en: flew
+                            zh: 飛
+                          - en: up
+                            zh: 上
+                          - en: flew
+                            zh: 飛
+                          - en: down
+                            zh: 下，
+                            py: xià,
+                - en: then she just jumped up and down.
+                  en_audio: /story1/educationalstories/cebanzuo/bane71.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc71.wav
+                  atoms:
+                          - en: she
+                            zh: 她
+                          - en: then
+                            zh: 就
+                          - en: up
+                            zh: 上
+                          - en: down
+                            zh: 下
+                          - en: jumped
+                            zh: 跳躍。
+                            py: tiàoyuè.
+                - en: The silver coins were thrown to her left and right,
+                  en_audio: /story1/educationalstories/cebanzuo/bane72.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc72.wav
+                  atoms:
+                          - en: White
+                            zh: 白
+                            py: Bái
+                          - en: silver
+                            zh: 銀
+                          - en: threw
+                            zh: 扔
+                          - en: to
+                            zh: 到
+                          - en: left
+                            zh: 左
+                          - en: right
+                            zh: 右，
+                            py: yòu,
+                - en: then she just dodged to left and right.
+                  en_audio: /story1/educationalstories/cebanzuo/bane73.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc73.wav
+                  atoms:
+                          - en: she
+                            zh: 她
+                          - en: then
+                            zh: 就
+                          - en: left
+                            zh: 左
+                          - en: right
+                            zh: 右
+                          - en: dodged
+                            zh: 躲閃。
+                            py: duǒshǎn.
+                - en: They threw half the day and not a single coin had hit her.
+                  en_audio: /story1/educationalstories/cebanzuo/bane74.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc74.wav
+                  atoms:
+                          - en: Threw
+                            zh: 扔了
+                            py: Rēng le
+                          - en: half
+                            zh: 半
+                          - en: day
+                            zh: 天，
+                            py: tiān,
+                          - en: one
+                            zh: 一個
+                            py: yí ge
+                          - en: even
+                            zh: 也
+                          - en: not
+                            zh: 沒
+                          - en: hit
+                            zh: 打
+                          - en: on
+                            zh: 中
+                          - en: her
+                            zh: 她。
+                            py: tā.
+                - flow: indent
+                  en: There was a wealthy man who threw silver coins piece by piece,
+                  en_audio: /story1/educationalstories/cebanzuo/bane75.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc75.wav
+                  atoms:
+                          - en: There was
+                            zh: 有
+                            py: Yǒu
+                          - en: a
+                            zh: 一個
+                            py: yí ge
+                          - en: wealthy man
+                            zh: 財主
+                            py: cáizhǔ
+                          - en: threw
+                            zh: 扔了
+                            py: rēng le
+                          - en: a
+                            zh: 一
+                          - en: piece
+                            zh: 塊
+                          - en: and
+                            zh: 又
+                          - en: a
+                            zh: 一
+                          - en: piece
+                            zh: 塊，
+                            py: kuài,
+                - en: and all were dodged by the girl,
+                  en_audio: /story1/educationalstories/cebanzuo/bane76.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc76.wav
+                  atoms:
+                          - en: all
+                            zh: 都
+                          - en: were
+                            zh: 被
+                          - en: dodged
+                            zh: 閃開，
+                            py: shǎnkāi,
+                - en: "so he then shouted out:"
+                  en_audio: /story1/educationalstories/cebanzuo/bane77.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc77.wav
+                  atoms:
+                          - en: he
+                            zh: 他
+                          - en: then
+                            zh: 就
+                          - en: shouted
+                            zh: 叫
+                          - en: out
+                            zh: 着
+                            py: zhe
+                          - en: saying
+                            zh: 說：
+                            py: "shuō:"
+                - en: "\"I am going to pay ten silver coins to buy you!\""
+                  en_audio: /story1/educationalstories/cebanzuo/bane78.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc78.wav
+                  atoms:
+                          - en: I
+                            zh: “我
+                            py: "\"Wǒ"
+                          - en: use
+                            zh: 用
+                          - en: ten
+                            zh: 十
+                          - en: pieces
+                            zh: 塊
+                          - en: white
+                            zh: 白
+                          - en: silver
+                            zh: 銀
+                          - en: buy
+                            zh: 買下來！”
+                            py: "mǎi xiàlai!\""
+                - en: Having said this, then he ran over to grab the silver.
+                  en_audio: /story1/educationalstories/cebanzuo/bane79.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc79.wav
+                  atoms:
+                          - en: Said
+                            zh: 說
+                            py: Shuō
+                          - en: finish
+                            zh: 完，
+                            py: wán,
+                          - en: then
+                            zh: 就
+                          - en: cross
+                            zh: 過去
+                            py: guòqu
+                          - en: grab
+                            zh: 搶
+                          - en: white
+                            zh: 白
+                          - en: silver
+                            zh: 銀。
+                            py: yīn.
+                - en: The young girl turned her body,
+                  en_audio: /story1/educationalstories/cebanzuo/bane80.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc80.wav
+                  atoms:
+                          - en: That
+                            zh: 那個
+                            py: Nèi ge
+                          - en: young
+                            zh: 年輕
+                            py: niánqīng
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - en: turned
+                            zh: 反轉
+                            py: fǎnzhuǎn
+                          - en: body
+                            zh: 身，
+                            py: shēn,
+                - en: and with one foot kicked him down to the bridge.
+                  en_audio: /story1/educationalstories/cebanzuo/bane81.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc81.wav
+                  atoms:
+                          - en: one
+                            zh: 一
+                          - en: foot
+                            zh: 腳
+                          - en: then
+                            zh: 就把
+                          - en: him
+                            zh: 他
+                          - en: kicked
+                            zh: 踢
+                          - en: to
+                            zh: 到
+                          - en: bridge
+                            zh: 橋
+                          - en: down
+                            zh: 下去。
+                            py: xià qu.
+                - en: The other people saw that she was outstanding at martial arts,
+                  en_audio: /story1/educationalstories/cebanzuo/bane82.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc82.wav
+                  atoms:
+                          - en: Other
+                            zh: 其餘的
+                            py: Qíyú de
+                          - en: people
+                            zh: 人
+                          - en: saw
+                            zh: 看
+                          - en: her
+                            zh: 她
+                          - en: martial arts
+                            zh: 武術
+                            py: wǔshù
+                          - en: outstanding
+                            zh: 高強，
+                            py: gāoqiáng,
+                - en: so no one dared cross to grab the money.
+                  en_audio: /story1/educationalstories/cebanzuo/bane83.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc83.wav
+                  atoms:
+                          - en: not
+                            zh: 沒
+                          - en: have
+                            zh: 有
+                          - en: person
+                            zh: 人
+                          - en: dared
+                            zh: 敢
+                          - en: cross
+                            zh: 過去
+                            py: guòqu
+                          - en: grab
+                            zh: 搶
+                          - en: money
+                            zh: 錢。
+                            py: qián.
+                - en: The young girl picked up the silver,
+                  en_audio: /story1/educationalstories/cebanzuo/bane84.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc84.wav
+                  atoms:
+                          - en: That
+                            zh: 那個
+                            py: Nèi ge
+                          - en: young
+                            zh: 年輕
+                            py: niánqīng
+                          - en: girl
+                            zh: 姑娘
+                            py: gūniang
+                          - zh: 把
+                          - en: white
+                            zh: 白
+                          - en: silver
+                            zh: 銀
+                          - en: picked
+                            zh: 撿
+                          - en: up
+                            zh: 起來，
+                            py: qǐlai,
+                - en: and gave it all to the old man,
+                  en_audio: /story1/educationalstories/cebanzuo/bane85.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc85.wav
+                  atoms:
+                          - en: all
+                            zh: 全部
+                            py: quánbù
+                          - en: gave
+                            zh: 交
+                          - en: to
+                            zh: 給
+                          - en: old man
+                            zh: 老人，
+                            py: lǎorén,
+                - en: and flew away riding the horse,
+                  en_audio: /story1/educationalstories/cebanzuo/bane86.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc86.wav
+                  atoms:
+                          - en: then
+                            zh: 就
+                          - en: riding
+                            zh: 騎着
+                            py: qí zhe
+                          - en: horse
+                            zh: 馬
+                          - en: flew
+                            zh: 飛奔
+                            py: fēibēn
+                          - en: away
+                            zh: 而去。
+                            py: ér qù.
+                - en: The old man was helped by the guests who were passing by,
+                  en_audio: /story1/educationalstories/cebanzuo/bane87.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc87.wav
+                  atoms:
+                          - en: Old man
+                            zh: 老人
+                            py: Lǎorén
+                          - en: got
+                            zh: 得到
+                            py: dédào
+                          - en: passing by
+                            zh: 過路
+                          - en: guests
+                            zh: 客人的
+                            py: kèrén de
+                          - en: help
+                            zh: 幫助，
+                            py: bāngzhù,
+                - en: and he employed workers to finish the bridge,
+                  en_audio: /story1/educationalstories/cebanzuo/bane88.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc88.wav
+                  atoms:
+                          - en: and
+                            zh: 又
+                          - en: employed
+                            zh: 雇了
+                            py: gù le
+                          - en: workers
+                            zh: 工人
+                            py: gōngrén
+                          - zh: 把
+                          - en: bridge
+                            zh: 橋
+                          - en: built
+                            zh: 修建
+                            py: xiūjiàn
+                          - en: well
+                            zh: 好，
+                            py: hǎo,
+                - en: so that later crossing the river was very convenient.
+                  en_audio: /story1/educationalstories/cebanzuo/bane89.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc89.wav
+                  atoms:
+                          - en: later
+                            zh: 後來
+                            py: hòulái
+                          - en: crossing
+                            zh: 過
+                          - en: river
+                            zh: 河
+                          - en: then
+                            zh: 就
+                          - en: very
+                            zh: 很
+                          - en: convenient
+                            zh: 方便
+                            py: fāngbiàn
+                          - zh: 了。
+                            py: le.
+                - en: From then until now,
+                  en_audio: /story1/educationalstories/cebanzuo/bane90.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc90.wav
+                  atoms:
+                          - en: From then
+                            zh: 一直
+                            py: Yìzhí
+                          - en: until
+                            zh: 到
+                          - en: now
+                            zh: 現在，
+                            py: xiànzài,
+                - en: everyone still remembers the old man who built half the bridge,
+                  en_audio: /story1/educationalstories/cebanzuo/bane91.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc91.wav
+                  atoms:
+                          - en: everyone
+                            zh: 大家
+                            py: dàjiā
+                          - en: still
+                            zh: 還
+                          - en: remember
+                            zh: 記得
+                            py: jìde
+                          - en: built
+                            zh: 修建
+                            py: xiūjiàn
+                          - en: half
+                            zh: 半
+                          - zh: 座
+                          - en: bridge
+                            zh: 橋
+                          - zh: 的
+                            py: de
+                          - en: old man
+                            zh: 老人，
+                            py: lǎorén,
+                - en: and also remember the young girl who finished the other half of the bridge.
+                  en_audio: /story1/educationalstories/cebanzuo/bane92.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc92.wav
+                  atoms:
+                          - en: also
+                            zh: 也
+                          - en: remember
+                            zh: 記得
+                            py: jìde
+                          - en: finished
+                            zh: 完成
+                            py: wánchéng
+                          - en: other
+                            zh: 另外
+                            py: lìngwài
+                          - en: half
+                            zh: 半
+                          - zh: 座
+                          - en: bridge
+                            zh: 橋
+                          - zh: 的
+                            py: de
+                          - en: young
+                            zh: 年輕
+                            py: niánqīng
+                          - en: girl
+                            zh: 姑娘。
+                            py: gūniang.
+                - en: Although now the bridge is completely finished,
+                  en_audio: /story1/educationalstories/cebanzuo/bane93.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc93.wav
+                  atoms:
+                          - en: Although
+                            zh: 雖然
+                            py: Suīrán
+                          - en: now
+                            zh: 現在
+                            py: xiànzài
+                          - en: is
+                            zh: 是
+                          - en: completed
+                            zh: 完整的
+                            py: wánzhěng de
+                          - en: a
+                            zh: 一座
+                          - en: bridge
+                            zh: 橋，
+                            py: qiáo,
+                - en: "everyone still calls it 'One-Half Bridge'."
+                  en_audio: /story1/educationalstories/cebanzuo/bane94.wav
+                  cn_audio: /story1/educationalstories/cebanzuo/banc94.wav
+                  atoms:
+                          - en: but
+                            zh: 可是
+                            py: kěshì
+                          - en: everyone
+                            zh: 大家
+                            py: dàjiā
+                          - en: still
+                            zh: 還是
+                            py: háishì
+                          - en: calls
+                            zh: 叫
+                          - en: it
+                            zh: 它
+                          - en: Half
+                            zh: ‘半
+                            py: "'Bàn"
+                          - zh: 座
+                            py: Zuò
+                          - en: Bridge
+                            zh: 橋’。
+                            py: "Qiáo'."
