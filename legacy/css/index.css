@@ -27,10 +27,11 @@ div.linkbox {
     box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
     background-color: white;
     padding: .5em 2em .5em 2em;
-    display: inline-block;
+    width: 60%;
 }
 
 div.linkbox:hover {
-    background-color: #EEF;
+    text-decoration: underline;
+    color: blue;
     cursor: pointer;
 }
