@@ -35,3 +35,9 @@ div.linkbox:hover {
     color: blue;
     cursor: pointer;
 }
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
