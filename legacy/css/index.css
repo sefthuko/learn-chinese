@@ -1,10 +1,10 @@
 body {
     font-size: 20px;
+    font-family: 'Noto Sans', 'Microsoft Yahei', SimSun, serif;
 }
 
 div.zh {
     display: block;
-    font-family: 'Noto Sans', 'Microsoft Yahei', SimSun, sans-serif;
 }
 
 div.big {
@@ -20,4 +20,17 @@ div#container {
     width: 800px;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
+}
+
+div.linkbox {
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    padding: .5em 2em .5em 2em;
+    display: inline-block;
+}
+
+div.linkbox:hover {
+    background-color: #EEF;
+    cursor: pointer;
 }
