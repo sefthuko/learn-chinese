@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:py="http://genshi.edgewall.org/" py:strip="">
+
+  <py:match path="head" once="true">
+    <head py:attrs="select('@*')">
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-114730509-1" />
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-114730509-1');
+      </script>
+      ${select('*')}
+    </head>
+  </py:match>
+  <py:match path="body" once="true">
+    <body py:attrs="select('@*')">
+      ${select('*|text()')}
+    </body>
+  </py:match>
+</html>
