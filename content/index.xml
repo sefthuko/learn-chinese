@@ -65,36 +65,11 @@
       An Award for Professor Lu-sheng Chong (影視 Video)<br />
       給鍾露昇教授的鼓勵
     </div>
-    <div class="wide linkbox page" onclick="location.href='workingFolder/classicalPoetrySunginKungquIndex01.htm';">
-      The Classical Chinese Poetry Sung in Kunqu melody<br />
-      古典詩詞崑曲唱
-    </div>
-    <div class="wide linkbox page" onclick="location.href='workingFolder2/classicalPoetryInNanguanIndex01.htm';">
-      The Classical Chinese Poetry Sung in Nan'guan (2)<br />
-      唐詩宋詞南管唱（二）
-    </div>
-    <div class="wide linkbox page" onclick="location.href='workingFolder3/classicalPoetryInNanguanIndex03.htm';">
-      The Classical Chinese Poetry Sung in Nan'guan (3)<br />
-      唐詩宋詞南管唱（三）
-    </div>
-    <div class="wide linkbox page" onclick="location.href='http://fjnanyin.com/media4.asp?sort=19';">
-      A Classical Southern Fujian Melody<br />
-      Sung and played by Lin Wanru (Video, Link)<br />
-      林婉如唱及演奏《南管專集》（影視，互聯）
-    </div>
-    <div class="wide linkbox page" onclick="location.href='http://www.youtube.com/watch?v=gVq9Mw14xaY&amp;feature=relmfu';">
-      The World Heritage in China 1 to 38 (Video, Link)<br />
-      世界遺產在中國1至38（影視，互聯）
-    </div>
-    <div class="wide linkbox page" onclick="location.href='EducationalStories/page1.html';">
-      Illustrated Educational Stories 插圖本教育故事<br />
-      The Winter Herb 冬天的草藥
-    </div>
   </div>
   <div class="widecontainer">
     <div class="lesswide linkbox page" onclick="location.href='#Chinese_English';">
-      <p>Chinese-English Bilingual Learning: Pronunciation, Conversation, Stories, Modern Chinese, Classical Chinese, Philosophy<br />
-      中英雙語教學：發音，會話，故事，現代中文，古典中文，哲學</p>
+      <p>Chinese-English Bilingual Learning<br />
+      中英雙語教學</p>
     </div>
     <div class="lesswide linkbox page" onclick="location.href='#LanguageTeaching';">
       <p>Language and Language Teaching<br />
@@ -116,14 +91,13 @@
       <p>Classical Chinese: Kun Qu (Opera)<br />
       昆去</p>
     </div>
-    <div class="lesswide linkbox page" onclick="location.href='#Nanyin';">
-      <p>Classical Chinese: Nan Guan<br />
+    <div class="lesswide linkbox page" onclick="location.href='#Nan_Guan';">
+      <p>Classical Chinese: Nan Guan</p>
+    </div>
+    <div class="lesswide linkbox page" onclick="location.href='#Nan_Yin';">
+      <p>Classical Chinese: Nan Yin<br />
       (A Music of Southern Fujian)<br />
       南管 （閩南音樂）</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#southernfujianpoetry';">
-      <p>A Newly Composed Classical Chinese Southern Fujian Melody of the Tang and Song Poetry<br />
-      唐詩宋詞南管唱</p>
     </div>
     <div class="lesswide linkbox page" onclick="location.href='#classicalsouthernfujiansongs';">
       <p>A Classical Chinese Southern Fujian Melody of the Traditional Songs<br />
@@ -137,15 +111,6 @@
       <p>Chinese Cultural Aspects: Garden, Travel, and History<br />
       中華文化：園林，遊記，歷史</p>
     </div>
-    <div class="lesswide linkbox page" onclick="location.href='http://www.88505.com';">
-      <p>A Celebration of Chinese New Year (Video Show)<br />
-      慶祝中華新年 （影視節目）</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='http://www.wuhsing.org';">
-      <p>Wuxing College of Acupuncture<br />
-      五行針灸學院<br />
-      （Internet Link 網絡互聯）</p>
-    </div>
     <div class="lesswide linkbox page" onclick="location.href='#Multicultural';">
       <p>Multicultural 多元文化<br />
       Center for Universal Harmony 宇宙和諧中心</p>
@@ -154,8 +119,9 @@
   <a name="Chinese_English" />
   <div class="container page">
     <h2>Chinese-English 中華雙語</h2>
-    On these pages, you can click the Chinese to hear the Chinese pronunciation, and on the English to hear the English pronunciation.
     <ul>
+      <li><a href="EducationalStories/page1.html">Illustrated Educational Stories 插圖本教育故事<br />
+      The Winter Herb 冬天的草藥</a></li>
 	    <li><a href="BilingualVideo/default.htm">Chinese Pronunciation A 中文發音 A (Video 影視)</a></li>
 	    <li><a href="bcpronunciation/pronunciation.htm">Chinese Pronunciation B 中文發音 B (Audio 聽音)</a></li>
 	    <li><a href="BilingualVideo/defaultVideoOnly.htm">Conversational Chinese A 中文會話 A (Video 影視)</a></li>
@@ -531,6 +497,7 @@
     </ul>
   </div>
   <p />
+  <a name="Guqin_Qu" />
   <div class="container page">
     <h2>Classical Chinese: Guqin Qu (Songs)<br />
     古典中文：古琴曲</h2>
@@ -594,10 +561,13 @@
     </ul>
   </div>
   <p />
+	<a name="Kun_Qu" />
   <div class="container page">
-	  <h2>Classical Chinese: Kun Qu (Opera)<br />
+    <h2>Classical Chinese: Kun Qu (Opera)<br />
 	  古典中文：昆曲</h2>
     <ul>
+      <li><a href="workingFolder/classicalPoetrySunginKungquIndex01.htm">古典詩詞崑曲唱 <br />
+The Classical Chinese Poetry Sung in Kunqu melody</a></li>
       <li><a href="classicalci/kunquVideo01.htm">《昆曲》（世界遣產在中國）（影視 Video）（網絡互聯 Link）</a></li>
       <li><a href="classicalci/baijuyichanghenge/baijuyichanghenge01.htm">白居易：《長恨歌》（方祖燊註譯）</a></li>
       <li>長生殿（唐明皇與楊貴妃的愛情故事）</li>
@@ -635,6 +605,18 @@
     </ul>
   </div>
   <p />
+  <a name="Nan_Guan" />
+  <div class="container page">
+	  <h2>Classical Chinese: Nan Guan</h2>
+    <ul>
+      <li><a href="workingFolder2/classicalPoetryInNanguanIndex01.htm">The Classical Chinese Poetry Sung in Nan'guan (2)<br />
+        唐詩宋詞南管唱（二）</a></li>
+      <li><a href="workingFolder3/classicalPoetryInNanguanIndex03.htm">The Classical Chinese Poetry Sung in Nan'guan (3)<br />
+        唐詩宋詞南管唱（三）</a></li>
+    </ul>
+  </div> 
+  <p />
+  <a name="Nan_Yin" />
   <div class="container page">
 	  <h2>Classical Chinese: Nan Yin (A Music of Southern Fujian)<br />
 	  古典中文：南音（閩南音樂）</h2>
@@ -664,10 +646,6 @@
       </li>
       <li><a href="nanyin/wikipediaText/wikipediaText.htm">Southern Fujian Music (in English)<br />
 	      wikipedia.org</a>
-        <ul>
-          <li>A Newly Composed Classical Southern Fujian Melody of the Tang and Song Poetry<br />
-			唐詩宋詞南管唱</li>
-	</ul>
       </li>
       <li><a href="nanyin/chunjianghuayueye/chunjianghuayueye01.htm">張若虛：《春江花月夜》（鍾露昇註譯）</a>
         <ul>
@@ -856,6 +834,7 @@
     </ul>
   </div>
   <p />
+  <a name="classicalsouthernfujiansongs" />
   <div class="container page">
 	  <h2>A Classical Southern Fujian Melody of the Traditional Songs<br />
 	  南管清唱</h2>
@@ -1464,6 +1443,7 @@
     </ul>
   </div>
   <p />
+  <a name="Multicultural" />
   <div class="container page">
     <h2>Multicultural - 多元文化</h2>
     <ul>
