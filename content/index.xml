@@ -92,7 +92,8 @@
       昆曲</p>
     </div>
     <div class="lesswide linkbox page" onclick="location.href='#Nan_Guan';">
-      <p>Classical Chinese: Nan Guan</p>
+      <p>Classical Chinese: Nan Guan<br />
+      南管</p>
     </div>
     <div class="lesswide linkbox page" onclick="location.href='#Nan_Yin';">
       <p>Classical Chinese: Nan Yin<br />
