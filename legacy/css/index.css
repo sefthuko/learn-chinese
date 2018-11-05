@@ -23,32 +23,6 @@ div.container {
     padding: 10px;
 }
 
-div.widecontainer {
-    width: 1000px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
-
-div.lesswide {
-    width: 400px;
-    display: inline-block;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-size: 16px;
-    height: 60px;
-    position: relative;
-}
-
-div.lesswide p {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%;
-}
-
 div.wide {
     width: 60%;
     margin-left: auto;
