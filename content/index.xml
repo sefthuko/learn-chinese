@@ -66,56 +66,46 @@
       給鍾露昇教授的鼓勵
     </div>
   </div>
-  <div class="widecontainer">
-    <div class="lesswide linkbox page" onclick="location.href='#Chinese_English';">
-      <p>Chinese-English Bilingual Learning<br />
-      中英雙語教學</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#LanguageTeaching';">
-      <p>Language and Language Teaching<br />
-      語言與語言教學（包括方言研究）</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#ClassicalChineseProse';">
-      <p>Classical Chinese: Prose<br />
-      古典中文: 散文</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#classicalchineseshi';">
-      <p>Classical Chinese: Poetry<br />
-      古典中文：詩詞</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#Guqin_Qu';">
-      <p>Classical Chinese: Guqin Qu (Songs)<br />
-      古琴曲</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#Kun_Qu';">
-      <p>Classical Chinese: Kun Qu (Opera)<br />
-      昆曲</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#Nan_Guan';">
-      <p>Classical Chinese: Nan Guan<br />
-      南管</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#Nan_Yin';">
-      <p>Classical Chinese: Nan Yin<br />
-      (A Music of Southern Fujian)<br />
-      南音 （閩南音樂）</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#classicalsouthernfujiansongs';">
-      <p>A Classical Chinese Southern Fujian Melody of the Traditional Songs<br />
-      傳統南管清唱</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#shijiajingdian_title';">
-      <p>Chinese Classics: Historical, Confucian, Daoist, and Buddhist<br />
-      古典中文：史家，儒家，道家，佛家</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#chinese_culture';">
-      <p>Chinese Cultural Aspects: Garden, Travel, and History<br />
-      中華文化：園林，遊記，歷史</p>
-    </div>
-    <div class="lesswide linkbox page" onclick="location.href='#Multicultural';">
-      <p>Multicultural 多元文化<br />
-      Center for Universal Harmony 宇宙和諧中心</p>
-    </div>
+  <div class="container page">
+    <h2>Table of Contents</h2>
+    <ul>
+      <li>Language Learning
+        <ul>
+          <li><a href="#Learning_Guide">A Guide to Learning 學習指導</a></li>
+          <li><a href="#Chinese_English">Chinese-English Bilingual Learning 中英雙語教學</a></li>
+          <li><a href="#The_Classic_of_Changes">The Classic of Changes 易經選讀</a></li>
+          <li><a href="#LanguageTeaching">Language and Language Teaching 語言與語言教學（包括方言研究）</a></li>
+          <li><a href="#Learn_English">Learn English 學習英文</a></li>
+        </ul>
+      </li>
+      <li>Classical Chinese 古典中文
+        <ul>
+          <li><a href="#ClassicalChineseProse">Prose 散文</a></li>
+          <li><a href="#Classical_Chinese_Tales_of_Marvels">Tales of Marvels 傳奇</a></li>
+          <li><a href="#Classical_Chinese_Fu">Fu (Poetic Prose) 賦</a></li>
+          <li><a href="#Classical_Chinese_Pianwen">Pianwen (Parallel Prose) 駢文</a></li>
+          <li><a href="#classicalchineseshi">Poetry 詩詞</a></li>
+          <li><a href="#Classical_Chinese_Ci">Ci (Lyric Poetry) 詞</a></li>
+          <li><a href="#Guqin_Qu">Guqin Qu (Songs) 古琴曲</a></li>
+          <li><a href="#Kun_Qu">Kun Qu (Opera) 昆曲</a></li>
+          <li><a href="#Nan_Guan">Nan Guan 南管</a></li>
+          <li><a href="#Nan_Yin">Nan Yin (A Music of Southern Fujian) 南管 （閩南音樂）</a></li>
+          <li><a href="#opera_of_southern_fujian">Opera of Southern Fujian 梨園戲</a></li>
+          <li><a href="#classicalsouthernfujiansongs">A Classical Chinese Southern Fujian Melody of the Traditional Songs 傳統南管清唱</a></li>
+          <li><a href="#shijiajingdian_title">Historical Classics 史家經典</a></li>
+          <li><a href="#Confucian_Classics">Confucian Classics 儒家經典</a></li>
+          <li><a href="#Daoist_Classics">Daoist Classics 道家經典</a></li>
+          <li><a href="#Philosophical_Classics">Philosophical Classics 諸子經典</a></li>
+          <li><a href="#Buddhist_Classics">Buddhist Classics 佛家經典</a></li>
+        </ul>
+      </li>
+      <li><a href="#Martial_Arts">Martial Arts 中國武術：太極劍</a></li>
+      <li><a href="#Multicultural">Multicultural 多元文化</a></li>
+      <li><a href="#chinese_culture">Chinese Cultural 中華文化</a></li>
+      <li><a href="#Selected_Travel_Articles">Selected Travel Articles 遊記選載</a></li>
+      <li><a href="#Chinese_History">Chinese History 中國曆史</a></li>
+      <li><a href="#Videos">Videos</a></li>
+    </ul>
   </div>
   <a name="Chinese_English" />
   <div class="container page">
@@ -144,6 +134,7 @@
     </ul>
   </div>
   <p />
+  <a name="The_Classic_of_Changes" />
   <div class="container page">
     <h2>The Classic of Changes 易經選讀</h2>
     <ul>
@@ -173,6 +164,7 @@
     </ul>
   </div>
   <p />
+  <a name="Martial_Arts" />
   <div class="container page">
     <h2>Martial Arts - 中國武術：太極劍</h2>
     <ul>
@@ -182,6 +174,7 @@
       <li><a href="greece/greece.htm">Photos of Greece - 希 臘 照 片</a></li>
     </ul>
   </div>
+  <a name="Learn_English" />
   <div class="container page">
     <h2>Learn English 學習英文</h2>
     <ul>
@@ -201,8 +194,9 @@
       <li><a href="childrens-stories-chinese/e-st-houj01.html">猴媽媽救小猴子（聽錄音）（簡體字）</a></li>
     </ul>
   </div>
+  <a name="Learning_Guide" />
   <div class="container page">
-    <h2>Learning Guide 學習指導</h2>
+    <h2>A Guide to Learning 學習指導</h2>
     <ul>
       <li><a href="chineseonly/Xuexi%20zhidao/lundushu/lundushu_01.htm">劉真：論讀書</a></li>
       <li><a href="chineseonly/Xuexi%20zhidao/dushenmeshu/du_01.htm">梁容若：讀甚麼書？怎樣讀書？</a></li>
@@ -344,6 +338,7 @@
     </ul>
   </div>
   <p />
+  <a name="Classical_Chinese_Tales_of_Marvels" />
   <div class="container page">
     <h2>Classical Chinese: Tales of Marvels 古典中文：傳奇</h2>
     <ul>
@@ -351,6 +346,7 @@
     </ul>
   </div>
   <p />
+  <a name="Classical_Chinese_Fu" />
   <div class="container page">
     <h2>Classical Chinese: Fu (Poetic Prose) 古典中文：賦</h2>
     <ul>
@@ -376,6 +372,7 @@
     </ul>
   </div>
   <p />
+  <a name="Classical_Chinese_Pianwen" />
   <div class="container page">
     <h2>Classical Chinese: Pianwen (Parallel Prose) 古典中文：駢文</h2>
     <ul>
@@ -453,6 +450,7 @@
     </ul>
   </div>
   <p />
+  <a name="Classical_Chinese_Ci" />
   <div class="container page">
     <h2>Classical Chinese: Ci (Lyric Poetry) 古典中文：詞</h2>
     <ul>
@@ -608,7 +606,8 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
   <p />
   <a name="Nan_Guan" />
   <div class="container page">
-	  <h2>Classical Chinese: Nan Guan</h2>
+    <h2>Classical Chinese: Nan Guan<br/>
+    古典中文：南管</h2>
     <ul>
       <li><a href="workingFolder2/classicalPoetryInNanguanIndex01.htm">The Classical Chinese Poetry Sung in Nan'guan (2)<br />
         唐詩宋詞南管唱（二）</a></li>
@@ -1234,6 +1233,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Confucian_Classics" />
   <div class="container page">
     <h2>Confucian Classics 儒家經典</h2>
     <ul>
@@ -1305,6 +1305,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Daoist_Classics" />
   <div class="container page">
     <h2>Daoist Classics 道家經典</h2>
     <ul>
@@ -1330,6 +1331,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Philosophical_Classics" />
   <div class="container page">
     <h2>Philosophical Classics 諸子經典</h2>
     <ul>
@@ -1365,6 +1367,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Buddhist_Classics" />
   <div class="container page">
     <h2>Buddhist Classics 佛家經典</h2>
     <ul>
@@ -1556,6 +1559,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Selected_Travel_Articles" />
   <div class="container page">
     <h2>Selected Travel Articles - 遊記選載</h2>
     <ul>
@@ -1584,6 +1588,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Chinese_History" />
   <div class="container page">
     <h2>Chinese History 中國曆史</h2>
     <ul>
@@ -1592,6 +1597,7 @@ The Classical Chinese Poetry Sung in Kunqu melody</a></li>
     </ul>
   </div>
   <p />
+  <a name="Videos" />
   <div class="container page">
     <h2>Videos</h2>
     <ul>
